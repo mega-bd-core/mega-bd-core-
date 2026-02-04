@@ -1,0 +1,12 @@
+{
+  "name": "mega-bd-core",
+  "version": "1.0.0",
+  "description": "Serveur central Mega BD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
